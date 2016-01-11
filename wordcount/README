@@ -1,2 +1,2 @@
-After compilation, you can perform the test using 
+After finishing compilation, you can perform the test using 
 "./wordcount ./input/out"
