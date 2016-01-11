@@ -1,0 +1,1 @@
+This repository is used to store the source code for Word count program. It also contains the report of the analysis performed among various threads. This is to prove that more threads is always not solution to achieve high performance
